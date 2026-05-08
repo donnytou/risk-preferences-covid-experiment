@@ -21,4 +21,4 @@ To be added.
 
 ## Contact
 
-For questions, contact [corresponding author email].
+For questions, contact marco.cipriani@ny.frb.org.
